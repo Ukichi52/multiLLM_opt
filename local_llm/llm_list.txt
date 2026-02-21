@@ -1,0 +1,6 @@
+all-MiniLM-L6-v2
+bge-large-en-v1.5
+Gemma-2-27B-It-Abliterated
+gpt2
+llava-v1.5-7b
+Qwen3-VL-8B-Instruct
